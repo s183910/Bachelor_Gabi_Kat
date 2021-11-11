@@ -24,3 +24,18 @@ class FairScoreDoc(object):
 # class Tilbage(FairScoreDoc):
 #     def Tilbage_nu(self):
 #         return "<FairScoreDoc [%s]>" % ("Protected" if self.is_protected else "Nonprotected")
+
+
+# hvis man kunne lave det sådan, at når den har opfylt mtables k, så skal den break, så er den fin, hvis vi manuelt ændrer k og. 
+
+# problemerne
+# - den cutter ikke
+# - den arbejder ikke for prefixes
+# - den skal kunne 
+
+
+'''
+- den skal lave mtable for k=300
+- den skal gå igagn med at opfylde dette
+
+'''
