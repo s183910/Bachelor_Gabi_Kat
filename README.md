@@ -12,4 +12,4 @@ The heatmaps and boxplots are found in the notebook 'Final_Heatmaps_boxplots.ipy
 
 
 ## The modefied_FAIR algorithm
-The modefied_FAIR algorithm can be found in the 'FAIR.ipynb' notebook
+The modefied_FAIR algorithm can be found in Bachelor_Gabi_Kat/FAIR/fairsearchcore/FAIR.ipynb
